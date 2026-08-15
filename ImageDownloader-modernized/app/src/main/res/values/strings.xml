@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Image Downloader</string>
+    <string name="main_message">Welcome to Image Downloader App where you can download the entire image from a  website page by simply entering the url</string>
+    <string name="footer_1">report Bug / Queries </string>
+    <string name="no_images_found">No images found on that page.</string>
+    <string name="no_connection">No internet connection. Check your connection and try again.</string>
+    <string name="url_required">A URL is required</string>
+    <string name="scrape_failed">Couldn\'t load that page. Check the URL and try again.</string>
+    <string name="storage_permission_needed">Storage access is needed to save images</string>
+</resources>
